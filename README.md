@@ -26,12 +26,12 @@ pip install -r requirements.txt
 ## Setup ⚙️
 
 Create a `.env` file in the project directory and add your Twitter/X API credentials:
-
+```
 CONSUMER_KEY=your_consumer_key
 CONSUMER_KEY_SECRET=your_consumer_key_secret
 ACCESS_TOKEN=your_access_token
 ACCESS_TOKEN_SECRET=your_access_token_secret
-
+```
 Ensure the `.env` file is in the same directory as `script.py`.
 
 ## Usage 🚀
