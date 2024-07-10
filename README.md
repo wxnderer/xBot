@@ -12,7 +12,7 @@ We use both v1 and v2 APIs in this project for the following reasons:
 Before you begin, ensure you have met the following requirements:
 
 - You have Python 3.x installed on your machine.
-- You have a Twitter/X Developer account and have created an app to obtain the necessary API keys and tokens (_YOU NEED TO USE OAuth1 credentials!!_).
+- You have a Twitter/X Developer account and have created an app to obtain the necessary API keys and tokens (**YOU NEED TO USE OAuth1 credentials!!**).
 - Read/Write permissions within your X app settings.
 
 ## Installation 🛠️
